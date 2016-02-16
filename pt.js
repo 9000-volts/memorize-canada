@@ -3,7 +3,7 @@ var pt = [
   {
     x: 40,
     y: 200,
-    text: "yukon territories"
+    text: "yukon"
   },
   {
     x: 130,
