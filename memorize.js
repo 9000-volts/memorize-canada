@@ -19,7 +19,7 @@ var generate = function (data) {
         if (e.keyCode === 13) {
           if (input.value.toLowerCase() === item.text) {
             input.className = "correct";
-            items[(index + 1) % (items.length - 1)].focus();
+            items[(index + 1) % items.length].focus();
           } else {
             clear();
           }

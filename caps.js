@@ -18,7 +18,7 @@ var caps = [
   {
     x: 280,
     y: 260,
-    text: "iqualuit"
+    text: "iqaluit"
   },
   {
     x: 60,
