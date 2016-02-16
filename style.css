@@ -1,0 +1,27 @@
+* { box-sizing: border-box; }
+#items input {
+  position: absolute;
+  border: 1px solid #222;
+  background: rgba(255,0,0,0.5);
+  font-size: 0.6em;
+  width: 9em;
+}
+#items input:focus {
+  box-shadow: 0 0 5em #f00;
+}
+#items input.correct {
+  background: rgba(0,255,0,0.5);
+}
+#buttons {
+  position: absolute;
+  top: 2em;
+  right: 2em;
+  display: flex;
+  flex-direction: column;
+}
+#buttons button {
+  display: block;
+  border: 1px solid #222;
+  background: #eee;
+  margin: 1em;
+}
