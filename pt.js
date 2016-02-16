@@ -48,7 +48,7 @@ var pt = [
   {
     x: 570,
     y: 380,
-    text: "newfoundland"
+    text: "newfoundland and labrador"
   },
   {
     x: 570,
